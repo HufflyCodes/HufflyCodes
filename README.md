@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wesley Huff
 ===================================================================================================================================
 
-Mechatronics Engineer
+Robotics and Mechatronics Engineer
 ---------------------
 
 I have just finished my master of science in mechanical engineering at Penn State University where I studied mechatronics with a focus on automation using machine vision.
